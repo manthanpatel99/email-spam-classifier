@@ -1,0 +1,1 @@
+This is a spam email classifier web app. Created using Python and Streamlit framework. The classifier was trained on multiple machine algorithms to check for the best accuracy, the models used are from SKlearn. The Python notebook contains all the work to train the model and the app.py file contains the source code for the web application.
